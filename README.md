@@ -1,6 +1,6 @@
 # CS 250 Module Eight Journal
 
-This repository includes my **Sprint Review and Retrospective** deliverable from the final project for CS 250. This artifact demonstrates my understanding of Agile and Scrum practices and how they apply to software development in a collaborative environment. Below are my reflections on the essential questions for the Computer Science program.
+This repository includes my Sprint Review and Retrospective deliverable from the final project for CS 250. This artifact demonstrates my understanding of Agile and Scrum practices and how they apply to software development in a collaborative environment. Below are my reflections on the essential questions for the Computer Science program.
 
 ---
 
