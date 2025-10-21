@@ -15,6 +15,17 @@ Additional branches will be added as I progress through the program.
 
 ---
 
+## Navigation
+
+To view individual course work:
+1. Click the **branch dropdown menu** near the top left of this page (it usually says `main`).
+2. Select the branch for the course you want to view (for example, `CS210` or `CS250`).
+3. Each course branch includes its own README file explaining the projects and what I learned from them.
+
+You can always return to the **main** branch to see the overall portfolio overview.
+
+---
+
 ## About This Portfolio
 
 This portfolio is designed to document my progress and showcase my technical and professional growth in software development. Each artifact represents real-world programming and development practices I’ve learned through SNHU’s curriculum. I use this repository to track my evolution as a developer and to demonstrate my abilities to future employers.
